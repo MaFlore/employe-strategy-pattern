@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author flore
+ *
+ */
+module StrategyEmploye {
+}
